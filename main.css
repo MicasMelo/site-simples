@@ -1,0 +1,16 @@
+body, #msg{
+    font-family: monospace;
+}
+ul{
+    font-family: Helvetica;
+}
+li{
+    list-style: circle;
+}
+.list{
+    list-style: square;
+}
+.light-theme{
+    color: #000000;
+    background: #00FF00;
+}
